@@ -1,5 +1,11 @@
 # Security Policy
 
+Python Security Response Team (PSRT) members balance security work against many
+other responsibilities. Please be thoughtful about the time and attention your
+report requires. Repeated failure to respect this will result in future reports
+being rejected, or the reporter being banned from the `python` GitHub organization,
+regardless of technical merit.
+
 ## Reporting a Vulnerability
 
 Please read the guidelines [on the
